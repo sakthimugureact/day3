@@ -7,7 +7,7 @@ function Mini2() {
     <>
     <h1 style={{textAlign:'center'}}>Mini Project - 2</h1>
     <h2 style={{textAlign:'center'}}>Live Clock</h2>
-    <h5 style={{textAlign:'center'}}>{changetime}</h5>
+    <h5 style={{textAlign:'center'}}>{changetime} done</h5>
     <hr/>
     </>
   )
